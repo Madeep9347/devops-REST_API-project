@@ -9,7 +9,7 @@ cidr_private_subnet  = ["10.0.3.0/24", "10.0.4.0/24"]
 eu_availability_zone = ["eu-central-1a", "eu-central-1b"]
 
 public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDBBRs1HWVhDI0c1812urO+kYgzLASgqraYp99Wb3mRl5vgfrlqfn5h7SVXtZ3TDtAE4Wucj8wUHmadtFavZxUzGux2jcgiDN98ApePJmqmWJeoF39kGTt+wrdTLxZE7nXelkpn8ePsjcvYBgH/VN3yB/DsJVrYNkPwEL9Tu3rKWpPo8LFGAUtxO0zUQb1tyj/879swXK03HJztGSU5mvw4t4XTtI/r2jWXrfDP7b6X/40n2j/3YArZNk+z48VOsd3smccYIzL144Xx5cNx+IwKd/2jEzK0NeUU90xIlQI1zCaXUqhA3UBKZ9TbP+xZWLoiD3x8VQzvPQVMyhVhqnoz2LxnkLWMTKRmzmWl6DbIXDAq6/w3bAEI8rZvbx//oavAErgyWD8Wkw+cGjMDpUn+5lbkuw4FJodYZ1KcYYV1QKdYfGo9e/5KDewn4kJnDom+yqioO7bs19z5TTMyRy+JTgxvPoLxpGDA3aOtb1njWS2mbFrMyRPEjUcHx/eA6ZM= madee@Madhu"
-ec2_ami_id     = "ami-0c7217cdde317cfec"
+ec2_ami_id     = "ami-0a3c3a20c09d6f377"
 
 ec2_user_data_install_apache = ""
 
