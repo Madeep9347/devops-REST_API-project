@@ -3,7 +3,7 @@
 cd /home/ubuntu
 yes | sudo apt update
 yes | sudo apt install python3 python3-pip
-git clone 
+git clone https://github.com/Madeep9347/python-mysql-devops-REST-API-PROJECT.git
 sleep 20
 # shellcheck disable=SC2164
 cd python-mysql-db-proj-1
