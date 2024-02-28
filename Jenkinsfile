@@ -78,7 +78,7 @@ pipeline {
                 script {
                     withSonarQubeEnv('SonarQube') {
                         sh 'echo "=================SonarQube Analysis=================="'
-                        sh 'sonar-scanner'
+                        sh '/var/lib/jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven3/bin/mvn sonar:sonar'
                     }
                 }
             }
